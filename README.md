@@ -83,10 +83,6 @@ Adjust these parameters in `main.py`:
 CONFIDENCE_THRESHOLD = 0.5  # Detection confidence (0.0 - 1.0)
 ```
 
-## 📸 Screenshots
-
-*Add your screenshots here showing detection examples*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
@@ -94,13 +90,7 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-Your Name - [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
