@@ -28,12 +28,7 @@ git clone https://github.com/yourusername/object-detection.git
 cd object-detection
 ```
 
-2. Download the pre-trained model files (if not included):
-   - `frozen_inference_graph.pb`
-   - `ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt`
-   - `coco.names`
-
-3. Run the application:
+2. Run the application:
 ```bash
 python main.py
 ```
